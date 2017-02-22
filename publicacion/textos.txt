@@ -1,11 +1,19 @@
 Título (30)
 ===========
 
+Callejero Virtual de Hinojales
+
 Descripción breve (80)
 ======================
 
+Pensado para que, si llegas a Hinojales, puedas saber dónde encontrar cada cosa
+
 Descripción completa (4000)
 ===========================
+
+Aplicación pensada para todo aquel que llega a Hinojales y quiere saber dónde encontrar cada cosa, mucha historia, lugares para visitar y algo nuevo para ver. 
+
+Un lugar para descubrir en pleno Parque Natural Sierra de Aracena y Picos de Aroche.
 
 Etiquetas	
 ===========
